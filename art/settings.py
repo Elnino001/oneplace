@@ -27,7 +27,7 @@ SECRET_KEY = 'u%c#lhoe!i=pyt%q&e1hd@$jr)hm80ha)#=fi3x_=a=^wcu5tp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ]
+ALLOWED_HOSTS = ['127.0.0.1', oneplaze.herokuapp.com/]
 
 
 # Application definition
